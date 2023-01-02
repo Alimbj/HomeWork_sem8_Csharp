@@ -1,0 +1,15 @@
+D:\GeekBrains\С#\HomeWork_sem8_Csharp\bin\Debug\net7.0\HomeWork_sem8_Csharp.exe
+D:\GeekBrains\С#\HomeWork_sem8_Csharp\bin\Debug\net7.0\HomeWork_sem8_Csharp.deps.json
+D:\GeekBrains\С#\HomeWork_sem8_Csharp\bin\Debug\net7.0\HomeWork_sem8_Csharp.runtimeconfig.json
+D:\GeekBrains\С#\HomeWork_sem8_Csharp\bin\Debug\net7.0\HomeWork_sem8_Csharp.dll
+D:\GeekBrains\С#\HomeWork_sem8_Csharp\bin\Debug\net7.0\HomeWork_sem8_Csharp.pdb
+D:\GeekBrains\С#\HomeWork_sem8_Csharp\obj\Debug\net7.0\HomeWork_sem8_Csharp.csproj.AssemblyReference.cache
+D:\GeekBrains\С#\HomeWork_sem8_Csharp\obj\Debug\net7.0\HomeWork_sem8_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\С#\HomeWork_sem8_Csharp\obj\Debug\net7.0\HomeWork_sem8_Csharp.AssemblyInfoInputs.cache
+D:\GeekBrains\С#\HomeWork_sem8_Csharp\obj\Debug\net7.0\HomeWork_sem8_Csharp.AssemblyInfo.cs
+D:\GeekBrains\С#\HomeWork_sem8_Csharp\obj\Debug\net7.0\HomeWork_sem8_Csharp.csproj.CoreCompileInputs.cache
+D:\GeekBrains\С#\HomeWork_sem8_Csharp\obj\Debug\net7.0\HomeWork_sem8_Csharp.dll
+D:\GeekBrains\С#\HomeWork_sem8_Csharp\obj\Debug\net7.0\refint\HomeWork_sem8_Csharp.dll
+D:\GeekBrains\С#\HomeWork_sem8_Csharp\obj\Debug\net7.0\HomeWork_sem8_Csharp.pdb
+D:\GeekBrains\С#\HomeWork_sem8_Csharp\obj\Debug\net7.0\HomeWork_sem8_Csharp.genruntimeconfig.cache
+D:\GeekBrains\С#\HomeWork_sem8_Csharp\obj\Debug\net7.0\ref\HomeWork_sem8_Csharp.dll
